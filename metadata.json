@@ -1,0 +1,5 @@
+{
+  "name": "MWG Voice Studio",
+  "description": "Professional Text-to-Speech application for MWG media using Gemini 2.5 AI.",
+  "requestFramePermissions": []
+}
